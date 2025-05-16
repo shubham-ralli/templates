@@ -12,9 +12,9 @@ This collection includes ready-to-use templates for websites, documents, designs
 
 ## 🌐 Live Demo Links
 
-| # | Template Name     | Live Demo                                                                 |
-|-------------------|---------------------------------------------------------------------------|
-| 1  | Portfolio Website | [View Demo](https://shubham-ralli.github.io/templates/portfolio/)         |
+| #  | Template Name      | Live Demo Link                                                                  |
+|----|--------------------|----------------------------------------------------------------------------------|
+| 1  | Portfolio Website  | [View Demo](https://shubham-ralli.github.io/templates/portfolio/)               |
 
 
 ## ✅ Features
